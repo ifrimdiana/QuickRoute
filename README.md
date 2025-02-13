@@ -10,7 +10,7 @@ The application loads the map data from an XML file located in the build folder.
 ## Installation Guide
 ### Step 1 : Clone the Repository
 ```
-git clone https://github.com/ifrimdiana/SimpleWeatherApp
+git clone https://github.com/ifrimdiana/QuickRoute
 ```
 ### Step 2 : Run the Application
 Navigate to the build folder and run the executable
