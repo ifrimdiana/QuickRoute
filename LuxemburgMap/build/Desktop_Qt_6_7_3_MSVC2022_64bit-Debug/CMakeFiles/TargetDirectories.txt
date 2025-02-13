@@ -1,0 +1,8 @@
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/Tema5.dir
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/Tema5_autogen_timestamp_deps.dir
+D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/Tema5_autogen.dir

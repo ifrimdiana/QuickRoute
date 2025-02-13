@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<map description="oras">
+	<nodes>
+		<node id="0" latitude="4963454" longitude="621476"/>
+		<node id="1" latitude="4959493" longitude="614350"/>
+		<node id="2" latitude="4959247" longitude="612096"/>
+		<node id="3" latitude="4959206" longitude="612162"/>
+		<node id="4" latitude="4962199" longitude="612071"/>
+	</nodes>
+	<arcs>
+		<arc from="0" to="1" length="57"/>
+		<arc from="0" to="2" length="13"/>
+		<arc from="1" to="3" length="49"/>
+		<arc from="1" to="2" length="22"/>
+		<arc from="2" to="4" length="22"/>
+		<arc from="2" to="3" length="40"/>
+		<arc from="3" to="4" length="22"/>
+		<arc from="3" to="1" length="103"/>
+		<arc from="4" to="3" length="153"/>
+		<arc from="4" to="2" length="14"/>
+	</arcs>
+</map>

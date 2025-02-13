@@ -1,0 +1,101 @@
+# ninja log v5
+14	636	7559678346607331	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+14	636	7559678346607331	Tema5_autogen/timestamp	37c11f5ab37e79e
+637	5618	7559678396851264	CMakeFiles/Tema5.dir/Tema5_autogen/mocs_compilation.cpp.obj	de50906417dcb2e1
+642	5608	7559678396511244	CMakeFiles/Tema5.dir/main.cpp.obj	b7084267e9ccfc1c
+14	636	7559678346607331	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+14	636	7559678346607331	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+10	97	0	CMakeFiles/clean.additional	c313c7df7a6a27c5
+768	2924	7559005210997156	CMakeFiles/Tema5.dir/node.cpp.obj	3d0c2d1be165084a
+777	2933	7559005211137164	CMakeFiles/Tema5.dir/edge.cpp.obj	5d2f381929fbe786
+648	5626	7559678396985932	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+654	5699	7559678397808084	CMakeFiles/Tema5.dir/graph.cpp.obj	815f46dc156e02cf
+5699	5979	7559678400139741	Tema5.exe	2a641abb1591ac28
+98	134	0	clean	423d399e6810f01
+11	634	7559681275512319	Tema5_autogen/timestamp	37c11f5ab37e79e
+11	634	7559681275512319	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+11	634	7559681275512319	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+11	634	7559681275512319	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+640	5374	7559681323313076	CMakeFiles/Tema5.dir/main.cpp.obj	b7084267e9ccfc1c
+635	5377	7559681323293074	CMakeFiles/Tema5.dir/Tema5_autogen/mocs_compilation.cpp.obj	de50906417dcb2e1
+645	5415	7559681323715678	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+5415	5761	7559681326683101	Tema5.exe	2a641abb1591ac28
+18	215	7559683632465263	Tema5_autogen/timestamp	37c11f5ab37e79e
+18	215	7559683632465263	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+18	215	7559683632465263	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+18	215	7559683632465263	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+225	4972	7559683683158591	CMakeFiles/Tema5.dir/graph.cpp.obj	815f46dc156e02cf
+17	687	7559684776504886	Tema5_autogen/timestamp	37c11f5ab37e79e
+17	687	7559684776504886	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+17	687	7559684776504886	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+17	687	7559684776504886	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+697	5594	7559684826006359	CMakeFiles/Tema5.dir/main.cpp.obj	b7084267e9ccfc1c
+688	5599	7559684826026339	CMakeFiles/Tema5.dir/Tema5_autogen/mocs_compilation.cpp.obj	de50906417dcb2e1
+705	5631	7559684826364021	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+5631	6101	7559684830334513	Tema5.exe	2a641abb1591ac28
+18	229	7559687089470042	Tema5_autogen/timestamp	37c11f5ab37e79e
+18	229	7559687089470042	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+18	229	7559687089470042	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+18	229	7559687089470042	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+234	4838	7559687149980679	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+242	4933	7559687151048866	CMakeFiles/Tema5.dir/graph.cpp.obj	815f46dc156e02cf
+4933	5375	7559687154783381	Tema5.exe	2a641abb1591ac28
+14	230	7559692606001715	Tema5_autogen/timestamp	37c11f5ab37e79e
+14	230	7559692606001715	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+14	230	7559692606001715	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+14	230	7559692606001715	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+232	4406	7559692652360476	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+4406	4777	7559692655549946	Tema5.exe	2a641abb1591ac28
+15	181	7559693884680712	Tema5_autogen/timestamp	37c11f5ab37e79e
+15	181	7559693884680712	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+15	181	7559693884680712	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+15	181	7559693884680712	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+184	4052	7559693926314854	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+4053	4382	7559693929020898	Tema5.exe	2a641abb1591ac28
+17	223	7559695651203737	Tema5_autogen/timestamp	37c11f5ab37e79e
+17	223	7559695651203737	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+17	223	7559695651203737	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+17	223	7559695651203737	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+226	5217	7559695704473182	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+5217	5606	7559695707721716	Tema5.exe	2a641abb1591ac28
+16	706	7560592106905670	Tema5_autogen/timestamp	37c11f5ab37e79e
+16	706	7560592106905670	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+16	706	7560592106905670	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+16	706	7560592106905670	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+718	5887	7560592159518401	CMakeFiles/Tema5.dir/main.cpp.obj	b7084267e9ccfc1c
+708	5910	7560592159769052	CMakeFiles/Tema5.dir/Tema5_autogen/mocs_compilation.cpp.obj	de50906417dcb2e1
+729	5982	7560592160507296	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+11	206	7560592773121500	Tema5_autogen/timestamp	37c11f5ab37e79e
+11	206	7560592773121500	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+11	206	7560592773121500	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+11	206	7560592773121500	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+209	3897	7560592813720309	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+10	159	7560593048677773	Tema5_autogen/timestamp	37c11f5ab37e79e
+10	159	7560593048677773	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+10	159	7560593048677773	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+10	159	7560593048677773	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+163	3826	7560593087737278	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+17	201	7560594120911628	Tema5_autogen/timestamp	37c11f5ab37e79e
+17	201	7560594120911628	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+17	201	7560594120911628	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+17	201	7560594120911628	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+204	4104	7560594163305588	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+212	4239	7560594164729376	CMakeFiles/Tema5.dir/graph.cpp.obj	815f46dc156e02cf
+4239	4758	7560594169217646	Tema5.exe	2a641abb1591ac28
+14	814	7560626887798133	Tema5_autogen/timestamp	37c11f5ab37e79e
+14	814	7560626887798133	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+14	814	7560626887798133	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+14	814	7560626887798133	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+815	5947	7560626940137033	CMakeFiles/Tema5.dir/Tema5_autogen/mocs_compilation.cpp.obj	de50906417dcb2e1
+821	5955	7560626940207007	CMakeFiles/Tema5.dir/main.cpp.obj	b7084267e9ccfc1c
+841	5962	7560626940327025	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+848	6069	7560626941447675	CMakeFiles/Tema5.dir/graph.cpp.obj	815f46dc156e02cf
+6069	6485	7560626944811684	Tema5.exe	2a641abb1591ac28
+12	543	7560630357788155	Tema5_autogen/timestamp	37c11f5ab37e79e
+12	543	7560630357788155	Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+12	543	7560630357788155	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/timestamp	37c11f5ab37e79e
+12	543	7560630357788155	D:/Facultate/Anul 2/Semestrul 1/AG/Tema5/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Tema5_autogen/mocs_compilation.cpp	37c11f5ab37e79e
+544	5955	7560630412289364	CMakeFiles/Tema5.dir/Tema5_autogen/mocs_compilation.cpp.obj	de50906417dcb2e1
+550	5958	7560630412269327	CMakeFiles/Tema5.dir/main.cpp.obj	b7084267e9ccfc1c
+557	5996	7560630412706503	CMakeFiles/Tema5.dir/mainwindow.cpp.obj	25aba927f4ac8c86
+5996	6351	7560630415741287	Tema5.exe	2a641abb1591ac28
